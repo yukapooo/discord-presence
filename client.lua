@@ -24,7 +24,7 @@ CreateThread(function()
             SetRichPresence("🔗 Connecting to server...")
 
             SetDiscordRichPresenceAsset("logo")
-            SetDiscordRichPresenceAssetText("Golden Action")
+            SetDiscordRichPresenceAssetText("Yourserver")
 
         else
             -- ログイン後
@@ -38,7 +38,7 @@ CreateThread(function()
             )
 
             SetDiscordRichPresenceAsset("logo")
-            SetDiscordRichPresenceAssetText("Golden Action")
+            SetDiscordRichPresenceAssetText("Yourserver")
         end
     end
 end)
