@@ -14,7 +14,7 @@ end)
 
 -- Discord初期化（FiveM起動直後）
 CreateThread(function()
-    SetDiscordAppId(1456960062051586134) -- discord DeveloperのApp ID
+    SetDiscordAppId(0000000000000000000) -- discord DeveloperのApp ID
 
     while true do
         Wait(5000)
